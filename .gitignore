@@ -1,0 +1,5 @@
+**/obj/
+**/bin/
+.idea/
+Auth0Demo/Auth0Demo.sln.DotSettings.user
+
